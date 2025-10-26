@@ -1,0 +1,10 @@
+transformers==4.35.0
+datasets==2.14.6
+numpy==1.24.3
+huggingface-hub==0.16.4
+exceptiongroup
+protobuf
+sentencepiece
+pyparsing
+charset-normalizer==2.0.4
+pyarrow==12.0.0
